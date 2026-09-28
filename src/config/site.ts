@@ -11,6 +11,7 @@ export interface SiteConfig {
   social?: {
     discord?: string;
     youtube?: string;
+    steam?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -25,11 +26,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Relaxing Bunker Organization Simulator",
   description: "A relaxing bunker organization simulation game where players sort thousands of survival supplies, arrange storage shelves, and restore order inside a post-apocalyptic shelter.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://bunker-tidy-up.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://bunker-tidy-up.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@bunker-tidy-up.top",
   gameUrl: "https://store.steampowered.com/app/5212940/Bunker_Tidy_Up/",
   heroVideoId: "AiNCibcg9bs", // Bunker Tidy Up - Official Release Date Trailer (Tovarishch Games)
   social: {
-    youtube: "https://www.youtube.com/watch?v=AiNCibcg9bs",
+    youtube: "https://www.youtube.com/@TovarishchGames",
+    steam: "https://steamcommunity.com/app/5212940",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
