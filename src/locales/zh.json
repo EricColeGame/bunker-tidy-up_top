@@ -1,1 +1,497 @@
-{}
+{
+  "site": {
+    "name": "Bunker Tidy Up Wiki",
+    "shortName": "Bunker Tidy Up",
+    "tagline": "轻松的掩体整理模拟器",
+    "description": "一款轻松休闲的掩体整理模拟游戏，玩家要分拣数千件生存物资、整理储物架，让末日避难所重归井然有序。",
+    "legalNotice": "非官方粉丝维基，由玩家为玩家打造。"
+  },
+  "nav": {
+    "home": "首页",
+    "menu": "菜单",
+    "toggleTheme": "切换主题",
+    "guide": "指南",
+    "mechanics": "机制",
+    "items": "物品",
+    "progression": "进度",
+    "controls": "操作",
+    "tips": "技巧",
+    "reviews": "评测"
+  },
+  "home": {
+    "meta": {
+      "title": "Bunker Tidy Up Wiki - 物品、指南与技巧",
+      "description": "Bunker Tidy Up Wiki 提供物品分类指南、掩体整理技巧、游戏策略、升级信息以及实用的玩家资源。"
+    },
+    "hero": {
+      "eyebrow": "轻松的掩体整理模拟器",
+      "title": "Bunker Tidy Up Wiki",
+      "description": "一款轻松休闲的掩体整理模拟游戏，玩家要分拣数千件生存物资、整理储物架，让末日避难所重归井然有序。",
+      "stats": [
+        "17K+ 件物资",
+        "100+ 种物品",
+        "0 个可用兑换码",
+        "每周更新"
+      ],
+      "primaryCta": "新手指南",
+      "secondaryCta": "收纳与分类指南",
+      "tertiaryCta": "在 Steam 上游玩",
+      "videoLabel": "官方媒体"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "浏览全部指南",
+      "viewAll": "查看全部"
+    },
+    "start": {
+      "eyebrow": "从这里开始",
+      "title": "你的 Bunker Tidy Up 之旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手指南",
+          "description": "学会扫描-分类-复查的循环，规划第一条整理路线，把开局的架子清空而不重复打扫同一个角落。"
+        },
+        {
+          "number": "2",
+          "title": "收纳与架子分区",
+          "description": "把掩体划分为食品、药品、工具和书籍区，让每件物资在拿起之前就有明确的归宿。"
+        },
+        {
+          "number": "3",
+          "title": "升级优先级",
+          "description": "把最初的点数花在手部容量、货架散布和物品牵引上，减少来回奔波，加快每次整理。"
+        },
+        {
+          "number": "4",
+          "title": "成就与 100%",
+          "description": "推进 14 个 Steam 成就和四个清理阶段，让整座掩体的清扫成为稳步可完成的项目。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "热门页面",
+      "title": "当前热门",
+      "quickLinks": [
+        "新手指南",
+        "收纳分区",
+        "升级优先级",
+        "清洁技巧"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "新手指南",
+          "description": "用可重复的整理路线，扫描、分类、复查，一步步清理最初的架子。",
+          "href": "/guide/bunker-tidy-up-beginner-guide"
+        },
+        {
+          "badge": "热门",
+          "title": "物品分类",
+          "description": "按类别族分拣全部 17,437 件物资，让每件物品都进入正确的架子。",
+          "href": "/items/bunker-tidy-up-inventory"
+        },
+        {
+          "badge": "核心",
+          "title": "收纳分区",
+          "description": "把掩体划分为暂存、食品、医疗、工具、书库和深处储藏区。",
+          "href": "/mechanics/bunker-tidy-up-storage"
+        },
+        {
+          "badge": "更新",
+          "title": "升级优先级",
+          "description": "手部容量、货架散布和物品牵引，附成本与冷却说明。",
+          "href": "/progression/bunker-tidy-up-upgrades"
+        },
+        {
+          "badge": "热门",
+          "title": "清洁技巧",
+          "description": "两遍流程、分类锚点和防止杂物回潮的习惯。",
+          "href": "/tips/bunker-tidy-up-organization-tips"
+        },
+        {
+          "badge": "最新",
+          "title": "键盘操作",
+          "description": "移动、交互、放置和切换手持物品的全部 PC 按键。",
+          "href": "/controls/bunker-tidy-up-keyboard-controls"
+        },
+        {
+          "badge": "更新",
+          "title": "成就与 100%",
+          "description": "整座掩体清扫背后的四个清理阶段与 14 个 Steam 成就。",
+          "href": "/progression/bunker-tidy-up-100-percent"
+        },
+        {
+          "badge": "评测",
+          "title": "值得买吗？",
+          "description": "被首发玩家评为“特别好评”的平静、无计时分类循环。",
+          "href": "/reviews/bunker-tidy-up-review"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Bunker Tidy Up 是什么？",
+      "paragraphs": [
+        "Bunker Tidy Up 是一款 PC 平台的轻松第一人称整理模拟游戏。你出现在一个堆满 17,437 件散落物资的末日避难所中，把物资一件件分拣到游戏指定该放的架子、箱子和容器上。没有计时、没有战斗、没有失败状态，只有一座巨大的物资堆和大量等待填满的储物空间。",
+        "游戏包含食品、饮料、药品、工具、书籍和生存装备等 100 多种物品，进度更多取决于辨认类别和规划路线，而非速度。手部容量、货架散布和物品牵引等升级能缩短每一趟，而 14 个 Steam 成就和 100% 通关为完美主义玩家提供了长期目标。"
+      ],
+      "stats": [
+        {
+          "label": "开发者",
+          "value": "Tovarishch Games"
+        },
+        {
+          "label": "发行商",
+          "value": "PlayWay S.A."
+        },
+        {
+          "label": "平台",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "发行",
+          "value": "2026 年 9 月 23 日"
+        },
+        {
+          "label": "类型",
+          "value": "轻松整理模拟"
+        },
+        {
+          "label": "物资",
+          "value": "17,437"
+        },
+        {
+          "label": "独特物品",
+          "value": "100+"
+        },
+        {
+          "label": "成就",
+          "value": "14"
+        },
+        {
+          "label": "Steam Deck",
+          "value": "已验证"
+        }
+      ],
+      "cta": "浏览全部指南"
+    },
+    "explore": {
+      "title": "探索 Bunker Tidy Up Wiki",
+      "description": "Bunker Tidy Up 的全部指南汇聚一处：新手路线、物品分类、收纳分区、操作、升级、成就、更新与评测。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Bunker Tidy Up 新手指南",
+          "description": "本模块帮助新玩家理解基础分类机制、掩体整理目标以及开始摆放物资的高效方式。内容涵盖物品放置逻辑、探索流程和避免常见错误等新手技巧。",
+          "href": "/guide/bunker-tidy-up-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "动手之前先环视房间，记下出现最频繁的物资类别"
+            },
+            {
+              "label": "2",
+              "detail": "设定一条固定整理路线，从你能立刻认出的地标开始"
+            },
+            {
+              "label": "3",
+              "detail": "把同类物品归到一个小暂存堆里，避免类别混杂"
+            },
+            {
+              "label": "4",
+              "detail": "先放最明确的物品，让它们成为架子上其余物品的锚点"
+            },
+            {
+              "label": "5",
+              "detail": "彻底完成一个区域后再前往下一个储物区"
+            },
+            {
+              "label": "6",
+              "detail": "复查整理好的架子，下次从最近的未完成区域开始"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Bunker Tidy Up 物品指南",
+          "description": "本模块讲解掩体中不同的物品类别，包括食品、药品、工具、书籍和其他物资。玩家可以把它当作参考，了解不同物品该放在哪里。",
+          "href": "/items/bunker-tidy-up-inventory",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "楼下食品杂货：罐头、饮料、酱料、香料和饼干"
+            },
+            {
+              "label": "A",
+              "detail": "楼上实用品：生存装备、卫生用品、宠物食品和家居物资"
+            },
+            {
+              "label": "B",
+              "detail": "混合堆放：电池、火柴、药品和小型工具，按类别分送"
+            },
+            {
+              "label": "C",
+              "detail": "收藏品：小黄鸭和其他特殊物品，留到主楼层清空后再处理"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Bunker Tidy Up 收纳指南",
+          "description": "本模块聚焦货架整理策略与储物管理技巧，帮助玩家打造高效布局，应对数千件散落的物资。",
+          "href": "/mechanics/bunker-tidy-up-storage",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "入口",
+              "detail": "正门内侧的暂存区，用于第一遍分拣前的未分类物品"
+            },
+            {
+              "label": "食品",
+              "detail": "最靠近生活区的架子存放食品、饮料和消耗品"
+            },
+            {
+              "label": "医疗",
+              "detail": "一个专用柜或一段架子，把药品和急救用品放在一起"
+            },
+            {
+              "label": "工具",
+              "detail": "工作间附近的工具角存放维修和保养用具"
+            },
+            {
+              "label": "书库",
+              "detail": "较安静一端的书架存放书籍和读物"
+            },
+            {
+              "label": "深处",
+              "detail": "后方房间和少有人经过的墙面存放超大物品和备用物资"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Bunker Tidy Up 成就指南",
+          "description": "本模块列出可用的 Steam 成就，并说明玩家如何完成不同目标。对追求成就条件和进度追踪的完美主义玩家很有帮助。",
+          "href": "/progression/bunker-tidy-up-100-percent",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "追踪",
+              "detail": "跟随 14 个 Steam 成就，为没有目标的游戏增添可选的结构"
+            },
+            {
+              "label": "阶段",
+              "detail": "完整通关会经历开局、大批清理、精细处理和验证四个阶段"
+            },
+            {
+              "label": "Steam",
+              "detail": "成就与通关进度会在游戏的 Steam 页面追踪"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bunker Tidy Up 玩法技巧",
+          "description": "本模块提供实用玩法建议，帮助玩家轻松而高效地管理掩体。内容涵盖整理习惯、物品辨认以及提升分类速度的方法。",
+          "href": "/tips/bunker-tidy-up-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "类别",
+              "detail": "先按大类筛选，再确认物品用途，然后选择架子"
+            },
+            {
+              "label": "两遍法",
+              "detail": "第一遍扫描并分组，第二遍确定精确位置"
+            },
+            {
+              "label": "锚点",
+              "detail": "把每个已确认的位置当作下一件不确定物品的参照"
+            },
+            {
+              "label": "扫尾",
+              "detail": "停下之前重新检查每个分组，扫一遍零散物品"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Bunker Tidy Up 操作指南",
+          "description": "本模块讲解游戏的操作、交互系统以及可用的无障碍选项，帮助玩家快速理解移动、物品操作和游戏设置。",
+          "href": "/controls/bunker-tidy-up-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "移动",
+              "detail": "在各楼层之间穿行于房间、架子和暂存堆"
+            },
+            {
+              "label": "视角",
+              "detail": "拿起任何东西之前，先扫视架子和隐蔽角落"
+            },
+            {
+              "label": "交互",
+              "detail": "出现提示时拾取散落物资并使用可交互物体"
+            },
+            {
+              "label": "放置",
+              "detail": "把物品放到架子、地面或容器上，且不挡住通道"
+            },
+            {
+              "label": "切换",
+              "detail": "手持多件物品时，在携带的物资之间切换"
+            },
+            {
+              "label": "菜单",
+              "detail": "打开设置，查看按键、灵敏度和无障碍选项"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bunker Tidy Up 更新",
+          "description": "本模块汇集官方公告、发行信息和未来更新消息。玩家可以从官方渠道查看近期改动和开发者留言。",
+          "href": "/guide/bunker-tidy-up-early-access",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "发售",
+              "detail": "Bunker Tidy Up 于 2026 年 9 月 23 日以完整 1.0 版本发售"
+            },
+            {
+              "label": "补丁",
+              "detail": "开发者在发售首周内推送了一次调整更新"
+            },
+            {
+              "label": "Deck",
+              "detail": "游戏获得 Steam Deck 已验证状态，支持随时存档"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bunker Tidy Up 评测",
+          "description": "本模块汇总玩家反馈、Steam 评测趋势和社区印象，帮助访客在游玩前了解这款轻松整理游戏的玩法风格。",
+          "href": "/reviews/bunker-tidy-up-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "评分",
+              "detail": "玩家评测为“特别好评”，首发 294 条评测中 88% 为好评"
+            },
+            {
+              "label": "结论",
+              "detail": "评测者称这是一个平静、无计时的分类循环，奖励耐心"
+            },
+            {
+              "label": "价格",
+              "detail": "首发折扣价 3.99 美元，优惠于 2026 年 10 月 7 日结束"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "关于 Bunker Tidy Up 最常见问题的快速解答。",
+      "items": [
+        {
+          "question": "Bunker Tidy Up 是什么？",
+          "answer": "Bunker Tidy Up 是一款 PC 平台的轻松第一人称整理模拟游戏。你要把末日掩体中散落的 17,437 件物资分拣到架子和容器里，没有计时、战斗或失败状态。"
+        },
+        {
+          "question": "Bunker Tidy Up 有多少物品？",
+          "answer": "掩体开局就有 17,437 件物资，涵盖 100 多种独特物品，分为食品、饮料、药品、工具、书籍、卫生、宠物护理和生存装备等类别。"
+        },
+        {
+          "question": "Bunker Tidy Up 难吗？",
+          "answer": "不难。Bunker Tidy Up 以轻松为核心：没有计时和扣分，挑战来自辨认类别和规划路线，而非反应速度。"
+        },
+        {
+          "question": "Bunker Tidy Up 应该先升级什么？",
+          "answer": "先升级手部容量，一趟能拿更多，然后加上货架散布和物品牵引来加快分类。移动速度和外观可以等核心升级完成后再考虑。"
+        },
+        {
+          "question": "Bunker Tidy Up 有兑换码或多人模式吗？",
+          "answer": "没有。Bunker Tidy Up 是单人 PC 游戏，没有兑换码，也没有多人模式，并且支持随时存档，你想停就停。"
+        },
+        {
+          "question": "Bunker Tidy Up 有多少成就？",
+          "answer": "Bunker Tidy Up 包含 14 个 Steam 成就，为追求 100% 通关的玩家提供可选的结构。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "准备好整理你的掩体了吗？",
+      "description": "从第一堆物资到完美整理的避难所，我们的社区维基用免费、最新的指南一路相伴。",
+      "primary": "阅读新手指南",
+      "secondary": "在 Steam 上游玩"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Bunker Tidy Up 指南",
+    "overviewDescription": "Bunker Tidy Up 的完整攻略、新手路线和全流程覆盖。从这里学会核心清理循环、抵达结局，并跟进游戏从抢先体验到正式发售的全过程。"
+  },
+  "mechanics": {
+    "overviewTitle": "Bunker Tidy Up 机制",
+    "overviewDescription": "Bunker Tidy Up 的实际运作方式：清洁、整理、货架摆放和储物系统详解，让你整理避难所时不必重复打扫同一个角落。"
+  },
+  "items": {
+    "overviewTitle": "Bunker Tidy Up 物品",
+    "overviewDescription": "Bunker Tidy Up 的每个物品类别，从食品储藏和物资到书籍以及完整的 17,437 件库存，并附各自的分类建议。"
+  },
+  "progression": {
+    "overviewTitle": "Bunker Tidy Up 进度",
+    "overviewDescription": "升级、解锁、通关追踪，以及如何在 Bunker Tidy Up 中达成 100%，而不把时间浪费在重复劳动上。"
+  },
+  "controls": {
+    "overviewTitle": "Bunker Tidy Up 操作",
+    "overviewDescription": "Bunker Tidy Up 的完整键盘、鼠标和手柄按键绑定，以及让数千件物资分类更快的改键技巧。"
+  },
+  "tips": {
+    "overviewTitle": "Bunker Tidy Up 技巧",
+    "overviewDescription": "实用的 Bunker Tidy Up 技巧与窍门：最快的清理路线、高效的整理方法，以及让掩体长期保持整洁的货架策略。"
+  },
+  "reviews": {
+    "overviewTitle": "Bunker Tidy Up 评测",
+    "overviewDescription": "Bunker Tidy Up 的评测、第一印象，以及这款轻松掩体整理模拟是否值得你花时间的清晰判断。"
+  },
+  "shared": {
+    "wikiNavigation": "维基导航",
+    "activeCodes": "可用兑换码",
+    "updated": "更新",
+    "viewAllCodes": "查看全部兑换码",
+    "playOnRoblox": "在 Roblox 上游玩",
+    "inThisSection": "本节内容",
+    "tableOfContents": "目录",
+    "nextSteps": "下一步",
+    "needHelp": "需要帮助？",
+    "relatedReading": "相关阅读",
+    "relatedGuides": "相关指南",
+    "readMore": "阅读更多",
+    "officialMedia": "官方媒体",
+    "home": "首页",
+    "noGuidesAvailable": "暂无指南，敬请稍后回来查看！"
+  },
+  "footer": {
+    "aboutTitle": "Bunker Tidy Up Wiki",
+    "about": "Bunker Tidy Up Wiki 是一个独立的粉丝自建指南中心，涵盖物品分类、收纳整理、升级路线，以及新老玩家都需要的核心游戏知识。",
+    "quickLinks": "快速链接",
+    "guides": "指南",
+    "legal": "法律",
+    "copyright": "2026 Bunker Tidy Up Wiki。与 Tovarishch Games、PlayWay S.A. 或 Valve 无关联。",
+    "description": "Steam 上的轻松掩体整理模拟器。分拣 17,000+ 件物资，重归井然有序。",
+    "playGame": "在 Steam 上玩 Bunker Tidy Up",
+    "officialDiscord": "官方 Discord",
+    "officialYoutube": "官方 YouTube",
+    "vvBuilder": "Steam 社区中心",
+    "beginnerGuide": "新手指南",
+    "itemsGuides": "物品指南",
+    "mechanicsGuides": "机制指南",
+    "tipsGuides": "技巧与窍门",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款"
+  }
+}

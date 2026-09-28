@@ -1,1 +1,497 @@
-{}
+{
+  "site": {
+    "name": "Bunker Tidy Up Wiki",
+    "shortName": "Bunker Tidy Up",
+    "tagline": "のんびり楽しむバンカー整理シミュレーター",
+    "description": "散らかった物資を何千個も仕分けし、収納棚を整え、終末後のシェルターに秩序を取り戻す、のんびり楽しめるバンカー整理シミュレーター。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "items": "アイテム",
+    "progression": "進行",
+    "controls": "操作",
+    "tips": "ヒント",
+    "reviews": "レビュー"
+  },
+  "home": {
+    "meta": {
+      "title": "Bunker Tidy Up Wiki - アイテム・ガイド・ヒント",
+      "description": "Bunker Tidy Up Wiki では、アイテムの仕分けガイド、バンカー整理のヒント、ゲーム攻略、アップグレード情報、プレイヤーに役立つリソースを紹介しています。"
+    },
+    "hero": {
+      "eyebrow": "のんびり楽しむバンカー整理シミュレーター",
+      "title": "Bunker Tidy Up Wiki",
+      "description": "散らかった物資を何千個も仕分けし、収納棚を整え、終末後のシェルターに秩序を取り戻す、のんびり楽しめるバンカー整理シミュレーター。",
+      "stats": [
+        "17K+ の物資",
+        "100+ のアイテム",
+        "有効コード 0 件",
+        "毎週更新"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "収納・仕分けガイド",
+      "tertiaryCta": "Steam でプレイ",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Bunker Tidy Up の歩み",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "スキャン・仕分け・見直しのループを覚え、最初の仕分けルートを決めて、同じ角を二度掃除せずに最初の棚を片付けましょう。"
+        },
+        {
+          "number": "2",
+          "title": "収納と棚のゾーン",
+          "description": "バンカーを食品・薬・道具・本のゾーンに分け、手に取る前にすべての物資の定位置を決めましょう。"
+        },
+        {
+          "number": "3",
+          "title": "アップグレードの優先順位",
+          "description": "最初のポイントは手の容量、棚の分散、アイテム引き寄せに使い、往復を減らして片付けを速めましょう。"
+        },
+        {
+          "number": "4",
+          "title": "実績と 100%",
+          "description": "14 個の Steam 実績と 4 つの片付け段階を進め、バンカー全掃除を着実に終えられるプロジェクトにしましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気のページ",
+      "title": "いま話題",
+      "quickLinks": [
+        "初心者ガイド",
+        "収納ゾーン",
+        "アップグレードの優先順位",
+        "掃除のヒント"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "繰り返せる仕分けルートで、最初の棚をスキャン・仕分け・見直ししながら進めます。",
+          "href": "/guide/bunker-tidy-up-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "アイテムカテゴリ",
+          "description": "17,437 個の物資をカテゴリ別に仕分け、すべてのアイテムを正しい棚へ。",
+          "href": "/items/bunker-tidy-up-inventory"
+        },
+        {
+          "badge": "基本",
+          "title": "収納ゾーン",
+          "description": "バンカーを一時置き場・食料・医療・道具・書庫・奥収納のゾーンに分けます。",
+          "href": "/mechanics/bunker-tidy-up-storage"
+        },
+        {
+          "badge": "更新",
+          "title": "アップグレードの優先順位",
+          "description": "手の容量、棚の分散、アイテム引き寄せをコストとクールダウン付きで解説。",
+          "href": "/progression/bunker-tidy-up-upgrades"
+        },
+        {
+          "badge": "人気",
+          "title": "掃除のヒント",
+          "description": "2 回作業の流れ、カテゴリの基準、散らかりを防ぐ習慣。",
+          "href": "/tips/bunker-tidy-up-organization-tips"
+        },
+        {
+          "badge": "新着",
+          "title": "キーボード操作",
+          "description": "移動・操作・設置・持ち替えの PC キー割り当てをすべて掲載。",
+          "href": "/controls/bunker-tidy-up-keyboard-controls"
+        },
+        {
+          "badge": "更新",
+          "title": "実績と 100%",
+          "description": "バンカー全掃除を支える 4 つの片付け段階と 14 個の Steam 実績。",
+          "href": "/progression/bunker-tidy-up-100-percent"
+        },
+        {
+          "badge": "レビュー",
+          "title": "買う価値はある？",
+          "description": "起動プレイヤーから「非常に好評」と評価された、落ち着いたタイマーなしの仕分けループ。",
+          "href": "/reviews/bunker-tidy-up-review"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Bunker Tidy Up とは？",
+      "paragraphs": [
+        "Bunker Tidy Up は PC 向けの、のんびり楽しめる一人称視点の整理シミュレーションです。終末後のシェルターに散らばった 17,437 個の物資の中にスポーンし、ゲームが示すとおりに棚・木箱・コンテナへ 1 つずつ仕分けていきます。タイマーも戦闘も失敗状態もなく、あるのは膨大な山と、埋めるべきたくさんの収納だけです。",
+        "食品・飲み物・薬・道具・本・サバイバル用品にまたがる 100 種類以上のアイテムがあり、進行は速さよりもカテゴリの見分けとルート計画で決まります。手の容量、棚の分散、アイテム引き寄せといったアップグレードが毎回の作業を短くし、14 個の Steam 実績と 100% クリアがコンプリート志向のプレイヤーに長期的な目標を与えます。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Tovarishch Games"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "PlayWay S.A."
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "リリース",
+          "value": "2026年9月23日"
+        },
+        {
+          "label": "ジャンル",
+          "value": "のんびり整理シミュレーション"
+        },
+        {
+          "label": "物資",
+          "value": "17,437"
+        },
+        {
+          "label": "ユニークアイテム",
+          "value": "100+"
+        },
+        {
+          "label": "実績",
+          "value": "14"
+        },
+        {
+          "label": "Steam Deck",
+          "value": "検証済み"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Bunker Tidy Up Wiki を探索",
+      "description": "Bunker Tidy Up のすべてのガイドを 1 か所に：初心者ルート、アイテムカテゴリ、収納ゾーン、操作、アップグレード、実績、アップデート、レビュー。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Bunker Tidy Up 初心者ガイド",
+          "description": "このモジュールは、新しいプレイヤーが基本的な仕分けの仕組み、バンカー整理の目標、物資を並べ始める効率的な方法を理解できるようにします。アイテム配置の考え方、探索の流れ、よくある失敗の避け方といった初心者向けのヒントを扱います。",
+          "href": "/guide/bunker-tidy-up-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "何も触る前に部屋を見渡し、どの物資グループが最も多く現れるか確認する"
+            },
+            {
+              "label": "2",
+              "detail": "すぐに分かる目印から始まる、決まった仕分けルートを決める"
+            },
+            {
+              "label": "3",
+              "detail": "同じものを 1 つの小さな仮置き場にまとめ、カテゴリを混ぜない"
+            },
+            {
+              "label": "4",
+              "detail": "最も明確なものを先に置き、それを基準に棚の残りを整える"
+            },
+            {
+              "label": "5",
+              "detail": "次の収納ゾーンへ移る前に、1 つの区画を完全に終える"
+            },
+            {
+              "label": "6",
+              "detail": "終わった棚を見直し、次は最も近い未完成エリアから作業を始める"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Bunker Tidy Up アイテムガイド",
+          "description": "このモジュールは、食品・薬・道具・本など、バンカーにあるさまざまなアイテムカテゴリを解説します。プレイヤーは、さまざまなオブジェクトがどこに属するかを理解するための参考にできます。",
+          "href": "/items/bunker-tidy-up-inventory",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "1 階の食料品：缶詰、飲み物、ソース、スパイス、クラッカー"
+            },
+            {
+              "label": "A",
+              "detail": "2 階の実用品：サバイバル用品、衛生用品、ペットフード、日用品"
+            },
+            {
+              "label": "B",
+              "detail": "混合の山：電池、マッチ、薬、小さな道具をカテゴリ別に振り分け"
+            },
+            {
+              "label": "C",
+              "detail": "コレクション：アヒルなどの特別なオブジェクトは、メイン階を片付けるまで保管"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Bunker Tidy Up 収納ガイド",
+          "description": "このモジュールは、棚の整理戦略と収納管理の手法に焦点を当てます。何千もの散らばった物資を扱うための効率的な配置をプレイヤーが作れるようにします。",
+          "href": "/mechanics/bunker-tidy-up-storage",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "入口",
+              "detail": "メイン扉のすぐ内側にある一時置き場。1 回目の仕分け前のアイテムを置く"
+            },
+            {
+              "label": "食料",
+              "detail": "居住エリアに最も近い棚に、食品・飲み物・消耗品を置く"
+            },
+            {
+              "label": "医療",
+              "detail": "専用のキャビネットか棚の一区画に、薬と救急用品をまとめる"
+            },
+            {
+              "label": "道具",
+              "detail": "作業場近くの道具コーナーに、修理・整備用具を置く"
+            },
+            {
+              "label": "書庫",
+              "detail": "静かな端の本棚に、本や読み物を収納する"
+            },
+            {
+              "label": "奥収納",
+              "detail": "奥の部屋や人の少ない壁際に、大きなアイテムや予備の物資を置く"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Bunker Tidy Up 実績ガイド",
+          "description": "このモジュールは、利用可能な Steam 実績を一覧にし、プレイヤーがさまざまな目標を達成する方法を説明します。実績の条件や進捗管理を求めるコンプリート志向のプレイヤーに役立ちます。",
+          "href": "/progression/bunker-tidy-up-100-percent",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トラッカー",
+              "detail": "目標のないゲームに任意の指針を与える 14 個の Steam 実績を追う"
+            },
+            {
+              "label": "段階",
+              "detail": "完全クリアは、開始・大量整理・精密作業・確認の段階を経て進む"
+            },
+            {
+              "label": "Steam",
+              "detail": "実績とクリアの進捗はゲームの Steam ページで確認できる"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bunker Tidy Up 攻略のヒント",
+          "description": "このモジュールは、のんびりしつつ効率的なバンカー管理のための実践的な攻略アドバイスを提供します。整理の習慣、アイテムの見分け方、仕分け速度を上げる方法を扱います。",
+          "href": "/tips/bunker-tidy-up-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "カテゴリ",
+              "detail": "まず大きなグループで絞り込み、棚を選ぶ前にアイテムの用途を確認する"
+            },
+            {
+              "label": "2 回作業",
+              "detail": "1 回目でスキャンしてグループ分けし、2 回目で正確な配置を決める"
+            },
+            {
+              "label": "基準",
+              "detail": "確定した配置を、次に迷うアイテムの基準として使う"
+            },
+            {
+              "label": "総確認",
+              "detail": "終える前に各グループを再確認し、はぐれたアイテムを探す"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Bunker Tidy Up 操作ガイド",
+          "description": "このモジュールは、ゲームの操作、インタラクションシステム、利用できるアクセシビリティ設定を解説します。移動、アイテムの扱い、ゲーム設定をすばやく理解できるようにします。",
+          "href": "/controls/bunker-tidy-up-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "移動",
+              "detail": "バンカーの各階で、部屋・棚・仮置き場の間を歩く"
+            },
+            {
+              "label": "視点",
+              "detail": "何かを持ち上げる前に、棚や隠れた隅をくまなく見る"
+            },
+            {
+              "label": "操作",
+              "detail": "案内が表示されたら、散らばった物資を拾い、インタラクティブなオブジェクトを使う"
+            },
+            {
+              "label": "設置",
+              "detail": "通路をふさがずに、アイテムを棚・床・コンテナに置く"
+            },
+            {
+              "label": "持ち替え",
+              "detail": "2 つ以上持っているとき、運んでいる物資を切り替える"
+            },
+            {
+              "label": "メニュー",
+              "detail": "設定を開き、キー割り当て・感度・アクセシビリティ設定を確認する"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bunker Tidy Up アップデート",
+          "description": "このモジュールは、公式発表、リリース情報、今後のアップデートニュースをまとめます。プレイヤーは公式チャンネルから最近の変更や開発者のメッセージを確認できます。",
+          "href": "/guide/bunker-tidy-up-early-access",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ローンチ",
+              "detail": "Bunker Tidy Up は 2026 年 9 月 23 日に完全版 1.0 としてリリースされた"
+            },
+            {
+              "label": "パッチ",
+              "detail": "開発者はリリース後 1 週間以内に調整アップデートを配信した"
+            },
+            {
+              "label": "Deck",
+              "detail": "本作は Steam Deck Verified を取得し、いつでもセーブに対応している"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bunker Tidy Up レビュー",
+          "description": "このモジュールは、プレイヤーの感想、Steam レビューの傾向、コミュニティの印象をまとめます。訪問者が、プレイ前に本作の落ち着いた整理ゲームプレイのスタイルを理解するのに役立ちます。",
+          "href": "/reviews/bunker-tidy-up-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "スコア",
+              "detail": "プレイヤーレビューは「非常に好評」で、ローンチ時の 294 件のうち 88 パーセント"
+            },
+            {
+              "label": "評価",
+              "detail": "レビュアーは、忍耐を報いる落ち着いたタイマーなしの仕分けループだと評している"
+            },
+            {
+              "label": "価格",
+              "detail": "紹介割引中は 3.99 ドル、割引は 2026 年 10 月 7 日まで"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Bunker Tidy Up に関する最も一般的な質問への手早い回答。",
+      "items": [
+        {
+          "question": "Bunker Tidy Up とは？",
+          "answer": "Bunker Tidy Up は PC 向けの、のんびり楽しめる一人称視点の整理シミュレーションです。終末後のバンカーで、散らばった 17,437 個の物資を棚やコンテナに仕分けます。タイマーも戦闘も失敗状態もありません。"
+        },
+        {
+          "question": "Bunker Tidy Up のアイテム数は？",
+          "answer": "バンカーには 17,437 個の物資が最初からあり、100 種類以上のユニークアイテムが食品・飲み物・薬・道具・本・衛生・ペットケア・サバイバル用品に分類されています。"
+        },
+        {
+          "question": "Bunker Tidy Up は難しい？",
+          "answer": "いいえ。Bunker Tidy Up はのんびり楽しめるように作られています。タイマーやスコアのペナルティはなく、挑戦は反射神経ではなくカテゴリの見分けとルート計画にあります。"
+        },
+        {
+          "question": "Bunker Tidy Up で最初に強化すべきは？",
+          "answer": "まず手の容量で 1 回に運べる量を増やし、次に棚の分散とアイテム引き寄せで仕分けを速めましょう。移動速度や見た目は、主要アップグレードが揃ってからで十分です。"
+        },
+        {
+          "question": "Bunker Tidy Up にコードやマルチプレイはある？",
+          "answer": "いいえ。Bunker Tidy Up はシングルプレイの PC ゲームで、引き換えコードもマルチプレイモードもありません。いつでもセーブできるので、好きなときにやめられます。"
+        },
+        {
+          "question": "Bunker Tidy Up の実績数は？",
+          "answer": "Bunker Tidy Up には 14 個の Steam 実績があり、100 パーセントクリアを目指すプレイヤーに任意の指針を与えます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "バンカーを片付ける準備はできましたか？",
+      "description": "最初の物資の山から完璧に整理されたシェルターまで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Bunker Tidy Up ガイド",
+    "overviewDescription": "Bunker Tidy Up の攻略チャート、初心者ルート、全編カバー。ここからコアな片付けループを学び、エンディングに到達し、早期アクセスからローンチまでを追えます。"
+  },
+  "mechanics": {
+    "overviewTitle": "Bunker Tidy Up メカニクス",
+    "overviewDescription": "Bunker Tidy Up の仕組みを解説：掃除、整理、棚の配置、収納システム。同じ角を二度やらずにシェルターを片付けられるようにします。"
+  },
+  "items": {
+    "overviewTitle": "Bunker Tidy Up アイテム",
+    "overviewDescription": "Bunker Tidy Up のすべてのアイテムカテゴリ。食品の収納や物資から本、17,437 個の全インベントリまで、それぞれの仕分けのコツ付き。"
+  },
+  "progression": {
+    "overviewTitle": "Bunker Tidy Up 進行",
+    "overviewDescription": "アップグレード、解放、クリア状況の管理、そして繰り返し作業に何時間も費やさずに Bunker Tidy Up で 100 パーセントを達成する方法。"
+  },
+  "controls": {
+    "overviewTitle": "Bunker Tidy Up 操作",
+    "overviewDescription": "Bunker Tidy Up のキーボード・マウス・コントローラーの割り当てをすべて掲載。何千もの物資の仕分けを速くする再割り当てのコツ付き。"
+  },
+  "tips": {
+    "overviewTitle": "Bunker Tidy Up のヒント",
+    "overviewDescription": "実践的な Bunker Tidy Up のヒントとコツ：最速の掃除ルート、効率的な整理、バンカーをずっと整った状態に保つ棚の戦略。"
+  },
+  "reviews": {
+    "overviewTitle": "Bunker Tidy Up レビュー",
+    "overviewDescription": "Bunker Tidy Up のレビュー、ファーストインプレッション、そしてこの落ち着いたバンカー整理シムに時間をかける価値があるかの率直な評価。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後で確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "Bunker Tidy Up Wiki",
+    "about": "Bunker Tidy Up Wiki は、アイテムの仕分け、収納の整理、アップグレードの道筋、そして新規・ベテランの両プレイヤーに役立つ重要なゲーム知識を扱う、ファン制作の独立したガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Bunker Tidy Up Wiki. Tovarishch Games、PlayWay S.A.、Valve とは提携していません。",
+    "description": "Steam ののんびりバンカー整理シミュレーター。17,000+ の物資を仕分け、秩序を取り戻そう。",
+    "playGame": "Steam で Bunker Tidy Up をプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "Steam コミュニティハブ",
+    "beginnerGuide": "初心者ガイド",
+    "itemsGuides": "アイテムガイド",
+    "mechanicsGuides": "メカニクスガイド",
+    "tipsGuides": "ヒントとコツ",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

@@ -1,1 +1,497 @@
-{}
+{
+  "site": {
+    "name": "Bunker Tidy Up Wiki",
+    "shortName": "Bunker Tidy Up",
+    "tagline": "Entspannter Bunker-Organisationssimulator",
+    "description": "Ein entspannender Bunker-Organisationssimulator, in dem Spieler tausende Überlebensvorräte sortieren, Lagerregale anordnen und Ordnung in einem postapokalyptischen Schutzraum wiederherstellen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "items": "Gegenstände",
+    "progression": "Fortschritt",
+    "controls": "Steuerung",
+    "tips": "Tipps",
+    "reviews": "Bewertungen"
+  },
+  "home": {
+    "meta": {
+      "title": "Bunker Tidy Up Wiki – Gegenstände, Leitfaden & Tipps",
+      "description": "Das Bunker Tidy Up Wiki bietet Sortieranleitungen für Gegenstände, Tipps zur Bunkerorganisation, Spielstrategien, Upgrade-Informationen und hilfreiche Ressourcen für Spieler."
+    },
+    "hero": {
+      "eyebrow": "Entspannter Bunker-Organisationssimulator",
+      "title": "Bunker Tidy Up Wiki",
+      "description": "Ein entspannender Bunker-Organisationssimulator, in dem Spieler tausende Überlebensvorräte sortieren, Lagerregale anordnen und Ordnung in einem postapokalyptischen Schutzraum wiederherstellen.",
+      "stats": [
+        "17K+ Vorräte",
+        "100+ Gegenstände",
+        "0 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Einsteigerleitfaden",
+      "secondaryCta": "Lager- & Sortierleitfaden",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Bunker Tidy Up Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerleitfaden",
+          "description": "Lerne die Schleife aus Scannen, Sortieren und Prüfen, lege deine erste Sortierroute fest und räume die ersten Regale, ohne dieselbe Ecke zweimal zu reinigen."
+        },
+        {
+          "number": "2",
+          "title": "Lager- & Regalzonen",
+          "description": "Teile den Bunker in Zonen für Lebensmittel, Medizin, Werkzeuge und Bücher auf, damit jeder Vorrat einen klaren Platz hat, bevor du ihn aufhebst."
+        },
+        {
+          "number": "3",
+          "title": "Upgrade-Priorität",
+          "description": "Investiere deine ersten Punkte in Handkapazität, Regalstreuung und Gegenstandziehen, um Rückwege zu sparen und jede Aufräumrunde zu beschleunigen."
+        },
+        {
+          "number": "4",
+          "title": "Erfolge & 100 %",
+          "description": "Arbeite die 14 Steam-Erfolge und die vier Aufräumphasen ab, die aus einem kompletten Bunkerdurchgang ein stetiges, abschließbares Projekt machen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Einsteigerleitfaden",
+        "Lagerzonen",
+        "Upgrade-Priorität",
+        "Reinigungstipps"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteigerleitfaden",
+          "description": "Arbeite dich mit einer wiederholbaren Sortierroute durch die ersten Regale – scannen, sortieren, prüfen.",
+          "href": "/guide/bunker-tidy-up-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Gegenstandskategorien",
+          "description": "Sortiere alle 17.437 Vorräte nach Kategoriefamilien, damit jeder Gegenstand ins richtige Regal gelangt.",
+          "href": "/items/bunker-tidy-up-inventory"
+        },
+        {
+          "badge": "Kern",
+          "title": "Lagerzonen",
+          "description": "Teile den Bunker in Bereitstellungs-, Proviant-, Medizin-, Werkzeug-, Bibliotheks- und Tiefenlagerzonen auf.",
+          "href": "/mechanics/bunker-tidy-up-storage"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Upgrade-Priorität",
+          "description": "Handkapazität, Regalstreuung und Gegenstandziehen mit Kosten und Abklingzeiten erklärt.",
+          "href": "/progression/bunker-tidy-up-upgrades"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Reinigungstipps",
+          "description": "Zwei-Durchgänge-Workflow, Kategorieanker und die Gewohnheiten, die Unordnung fernhalten.",
+          "href": "/tips/bunker-tidy-up-organization-tips"
+        },
+        {
+          "badge": "Neu",
+          "title": "Tastatursteuerung",
+          "description": "Alle PC-Belegungen für Bewegen, Interagieren, Platzieren und Wechseln gehaltener Gegenstände.",
+          "href": "/controls/bunker-tidy-up-keyboard-controls"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Erfolge & 100 %",
+          "description": "Die vier Aufräumphasen hinter einem kompletten Bunkerdurchgang und die 14 Steam-Erfolge.",
+          "href": "/progression/bunker-tidy-up-100-percent"
+        },
+        {
+          "badge": "Test",
+          "title": "Lohnt es sich?",
+          "description": "Eine ruhige, timerfreie Sortierschleife, die von Startspielern als „Sehr positiv“ bewertet wird.",
+          "href": "/reviews/bunker-tidy-up-review"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Bunker Tidy Up?",
+      "paragraphs": [
+        "Bunker Tidy Up ist eine entspannende Ego-Organisationssimulation für PC. Du erscheinst in einem postapokalyptischen Schutzraum voller 17.437 verstreuter Vorräte und sortierst sie Stück für Stück auf die Regale, Kisten und Behälter, wohin sie laut Spiel gehören. Es gibt keine Timer, keinen Kampf und keinen Fail-State – nur einen sehr großen Haufen und viel Lagerplatz.",
+        "Mit über 100 einzigartigen Gegenstandsarten aus den Bereichen Lebensmittel, Getränke, Medizin, Werkzeuge, Bücher und Überlebensausrüstung entsteht Fortschritt eher durch Kategorieerkennung und Routenplanung als durch Geschwindigkeit. Upgrades wie Handkapazität, Regalstreuung und Gegenstandziehen verkürzen jede Runde, während 14 Steam-Erfolge und ein 100-%-Abschluss Completionists ein langfristiges Ziel geben."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Tovarishch Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "PlayWay S.A."
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Veröffentlichung",
+          "value": "23. September 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "Entspannter Organisations-Sim"
+        },
+        {
+          "label": "Vorräte",
+          "value": "17.437"
+        },
+        {
+          "label": "Einzigartige Gegenstände",
+          "value": "100+"
+        },
+        {
+          "label": "Erfolge",
+          "value": "14"
+        },
+        {
+          "label": "Steam Deck",
+          "value": "Verifiziert"
+        }
+      ],
+      "cta": "Alle Leitfäden erkunden"
+    },
+    "explore": {
+      "title": "Bunker Tidy Up Wiki erkunden",
+      "description": "Jeder Bunker Tidy Up Leitfaden an einem Ort: Einsteigerrouten, Gegenstandskategorien, Lagerzonen, Steuerung, Upgrades, Erfolge, Updates und Bewertungen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Bunker Tidy Up Einsteigerleitfaden",
+          "description": "Dieses Modul hilft neuen Spielern, die grundlegenden Sortiermechaniken, die Ziele der Bunkerorganisation und effiziente Wege zum Einstieg in das Anordnen von Vorräten zu verstehen. Es behandelt Einsteigertipps wie die Logik der Gegenstandsplatzierung, den Erkundungsablauf und den Umgang mit häufigen Fehlern.",
+          "href": "/guide/bunker-tidy-up-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Verschaffe dir einen Überblick über den Raum, bevor du etwas anfasst, und notiere, welche Vorratsgruppen am häufigsten vorkommen"
+            },
+            {
+              "label": "2",
+              "detail": "Lege eine feste Sortierroute fest, die an einem Orientierungspunkt beginnt, den du sofort erkennst"
+            },
+            {
+              "label": "3",
+              "detail": "Gruppiere Gleiches mit Gleichem in einem kleinen Zwischenstapel, damit sich Kategorien nie vermischen"
+            },
+            {
+              "label": "4",
+              "detail": "Platziere zuerst die eindeutigsten Treffer und lass sie den Rest des Regals verankern"
+            },
+            {
+              "label": "5",
+              "detail": "Schließe einen Abschnitt vollständig ab, bevor du zur nächsten Lagerzone weitergehst"
+            },
+            {
+              "label": "6",
+              "detail": "Prüfe das fertige Regal und beginne deine nächste Sitzung im nächstgelegenen unfertigen Bereich"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Bunker Tidy Up Gegenstandsleitfaden",
+          "description": "Dieses Modul erklärt die verschiedenen Gegenstandskategorien im Bunker, darunter Lebensmittel, Medizin, Werkzeuge, Bücher und andere Vorräte. Spieler können es als Referenz nutzen, um zu verstehen, wohin verschiedene Objekte gehören.",
+          "href": "/items/bunker-tidy-up-inventory",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Vorräte im Erdgeschoss: Konserven, Getränke, Saucen, Gewürze und Cracker"
+            },
+            {
+              "label": "A",
+              "detail": "Nutzgegenstände oben: Überlebensausrüstung, Hygieneprodukte, Tiernahrung und Haushaltsvorräte"
+            },
+            {
+              "label": "B",
+              "detail": "Gemischte Stapel: Batterien, Streichhölzer, Medizin und kleine Werkzeuge, nach Kategorie geleitet"
+            },
+            {
+              "label": "C",
+              "detail": "Sammelstücke: Enten und andere besondere Objekte, aufbewahrt bis die Hauptetage leer ist"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Bunker Tidy Up Lagerleitfaden",
+          "description": "Dieses Modul konzentriert sich auf Regalorganisationsstrategien und Techniken zur Lagerverwaltung. Es hilft Spielern, effiziente Layouts für tausende verstreute Vorräte zu schaffen.",
+          "href": "/mechanics/bunker-tidy-up-storage",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Eingang",
+              "detail": "Bereitstellungszone direkt hinter der Haupttür für unsortierte Gegenstände im ersten Durchgang"
+            },
+            {
+              "label": "Proviant",
+              "detail": "Regale am nächsten zum Wohnbereich enthalten Lebensmittel, Getränke und Verbrauchsgüter"
+            },
+            {
+              "label": "Medizin",
+              "detail": "Ein eigener Schrank oder Regalabschnitt hält Medizin und Erste-Hilfe-Vorräte zusammen"
+            },
+            {
+              "label": "Werkzeug",
+              "detail": "Werkzeugecke nahe der Werkstatt für Reparatur- und Wartungsausrüstung"
+            },
+            {
+              "label": "Bibliothek",
+              "detail": "Ein Bücherregal am ruhigeren Ende lagert Bücher und Lesematerial"
+            },
+            {
+              "label": "Tiefenlager",
+              "detail": "Hintere Räume und wenig genutzte Wände nehmen übergroße Gegenstände und Ersatzvorräte auf"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Bunker Tidy Up Erfolgsleitfaden",
+          "description": "Dieses Modul listet verfügbare Steam-Erfolge auf und erklärt, wie Spieler verschiedene Ziele erreichen können. Es ist nützlich für Completionists, die Erfolgsanforderungen und Fortschrittsverfolgung suchen.",
+          "href": "/progression/bunker-tidy-up-100-percent",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tracker",
+              "detail": "Folge den 14 Steam-Erfolgen, um einem Spiel ohne Ziele optionale Struktur zu geben"
+            },
+            {
+              "label": "Phasen",
+              "detail": "Ein vollständiger Durchgang durchläuft die Phasen Öffnen, Massenaufräumen, Präzision und Überprüfung"
+            },
+            {
+              "label": "Steam",
+              "detail": "Erfolgs- und Abschlussfortschritt werden auf der Steam-Seite des Spiels verfolgt"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Bunker Tidy Up Gameplay-Tipps",
+          "description": "Dieses Modul bietet praktische Spieltipps für entspanntes, aber effizientes Bunkermanagement. Es behandelt Organisationsgewohnheiten, Gegenstandserkennung und Wege zur Verbesserung der Sortiergeschwindigkeit.",
+          "href": "/tips/bunker-tidy-up-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kategorie",
+              "detail": "Filtere zuerst nach großer Gruppe und prüfe dann, was der Gegenstand tut, bevor du ein Regal wählst"
+            },
+            {
+              "label": "Zwei Durchgänge",
+              "detail": "Im ersten Durchgang scannen und gruppieren, im zweiten die genaue Platzierung festlegen"
+            },
+            {
+              "label": "Anker",
+              "detail": "Nutze jede bestätigte Platzierung als Referenz für den nächsten unsicheren Gegenstand"
+            },
+            {
+              "label": "Kontrollgang",
+              "detail": "Prüfe jede Gruppe erneut und suche nach verirrten Gegenständen, bevor du aufhörst"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Bunker Tidy Up Steuerungsleitfaden",
+          "description": "Dieses Modul erklärt die Steuerung des Spiels, die Interaktionssysteme und die verfügbaren Barrierefreiheitsoptionen. Es hilft Spielern, Bewegung, Gegenstandshandhabung und Spieleinstellungen schnell zu verstehen.",
+          "href": "/controls/bunker-tidy-up-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Bewegen",
+              "detail": "Zwischen Räumen, Regalen und Zwischenstapeln über die Bunkeretagen laufen"
+            },
+            {
+              "label": "Umsehen",
+              "detail": "Regale und versteckte Ecken absuchen, bevor du etwas aufhebst"
+            },
+            {
+              "label": "Interagieren",
+              "detail": "Lose Vorräte aufheben und interaktive Objekte nutzen, wenn die Eingabeaufforderung erscheint"
+            },
+            {
+              "label": "Platzieren",
+              "detail": "Einen Gegenstand auf ein Regal, den Boden oder einen Behälter setzen, ohne Wege zu blockieren"
+            },
+            {
+              "label": "Wechseln",
+              "detail": "Durch getragene Vorräte wechseln, wenn du mehr als einen Gegenstand hältst"
+            },
+            {
+              "label": "Menü",
+              "detail": "Einstellungen öffnen, um Belegungen, Empfindlichkeit und Barrierefreiheitsoptionen zu prüfen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bunker Tidy Up Updates",
+          "description": "Dieses Modul sammelt offizielle Ankündigungen, Veröffentlichungsinformationen und Neuigkeiten zu künftigen Updates. Spieler können aktuelle Änderungen und Entwicklermitteilungen aus offiziellen Kanälen einsehen.",
+          "href": "/guide/bunker-tidy-up-early-access",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "Bunker Tidy Up erschien am 23. September 2026 als vollständige 1.0-Version"
+            },
+            {
+              "label": "Patches",
+              "detail": "Der Entwickler veröffentlichte innerhalb der ersten Woche ein Tuning-Update"
+            },
+            {
+              "label": "Deck",
+              "detail": "Das Spiel trägt den Status Steam Deck Verified mit Speichern-zu-jeder-Zeit-Unterstützung"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bunker Tidy Up Bewertungen",
+          "description": "Dieses Modul fasst Spielerfeedback, Steam-Testtrends und Community-Eindrücke zusammen. Es hilft Besuchern, den entspannten Organisationsspielstil des Spiels vor dem Spielen zu verstehen.",
+          "href": "/reviews/bunker-tidy-up-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Wertung",
+              "detail": "Spielerbewertungen liegen bei „Sehr positiv“ mit 88 Prozent von 294 Startbewertungen"
+            },
+            {
+              "label": "Urteil",
+              "detail": "Rezensenten beschreiben eine ruhige, timerfreie Sortierschleife, die Geduld belohnt"
+            },
+            {
+              "label": "Preis",
+              "detail": "Zum Einführungspreis von 3,99 $ gelistet, Rabatt endet am 7. Oktober 2026"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Bunker Tidy Up.",
+      "items": [
+        {
+          "question": "Was ist Bunker Tidy Up?",
+          "answer": "Bunker Tidy Up ist eine entspannende Ego-Organisationssimulation für PC. Du sortierst 17.437 verstreute Vorräte auf Regale und in Behälter in einem postapokalyptischen Bunker – ohne Timer, Kampf oder Fail-States."
+        },
+        {
+          "question": "Wie viele Gegenstände gibt es in Bunker Tidy Up?",
+          "answer": "Der Bunker startet mit 17.437 einzelnen Vorräten, verteilt auf über 100 einzigartige Gegenstandsarten, gruppiert in Lebensmittel, Getränke, Medizin, Werkzeuge, Bücher, Hygiene, Tierpflege und Überlebensausrüstung."
+        },
+        {
+          "question": "Ist Bunker Tidy Up schwer?",
+          "answer": "Nein. Bunker Tidy Up ist bewusst entspannend: Es gibt keine Timer oder Punkteabzüge, und die Herausforderung liegt in Kategorieerkennung und Routenplanung statt in Reflexen."
+        },
+        {
+          "question": "Was sollte ich in Bunker Tidy Up zuerst verbessern?",
+          "answer": "Beginne mit Handkapazität, um pro Weg mehr zu tragen, und ergänze dann Regalstreuung und Gegenstandziehen, um das Sortieren zu beschleunigen. Bewegungsgeschwindigkeit und Kosmetik können warten, bis die Kern-Upgrades aktiv sind."
+        },
+        {
+          "question": "Hat Bunker Tidy Up Codes oder Mehrspieler?",
+          "answer": "Nein. Bunker Tidy Up ist ein Einzelspieler-PC-Spiel ohne Einlösecodes und ohne Mehrspielermodus, und die Möglichkeit, jederzeit zu speichern, bedeutet, dass du aufhören kannst, wann du willst."
+        },
+        {
+          "question": "Wie viele Erfolge hat Bunker Tidy Up?",
+          "answer": "Bunker Tidy Up enthält 14 Steam-Erfolge, die Spielern, die einen vollständigen 100-%-Abschluss anstreben, optionale Struktur geben."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, deinen Bunker aufzuräumen?",
+      "description": "Von deinem ersten Vorratsstapel bis zum perfekt organisierten Schutzraum – unser Community-Wiki bietet dir kostenlose, aktuelle Leitfäden.",
+      "primary": "Einsteigerleitfaden lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Bunker Tidy Up Leitfaden",
+    "overviewDescription": "Komplettlösungen, Einsteigerrouten und die vollständige Spielabdeckung für Bunker Tidy Up. Starte hier, um die zentrale Aufräumschleife zu lernen, das Ende zu erreichen und das Spiel vom Early Access bis zum Launch zu verfolgen."
+  },
+  "mechanics": {
+    "overviewTitle": "Bunker Tidy Up Mechaniken",
+    "overviewDescription": "Wie Bunker Tidy Up wirklich funktioniert: Reinigung, Organisation, Regalplatzierung und Lagersysteme erklärt, damit du einen Schutzraum aufräumen kannst, ohne dieselbe Ecke zweimal zu machen."
+  },
+  "items": {
+    "overviewTitle": "Bunker Tidy Up Gegenstände",
+    "overviewDescription": "Jede Gegenstandskategorie in Bunker Tidy Up, von Lebensmittellagerung und Vorräten bis zu Büchern und dem vollständigen Inventar mit 17.437 Gegenständen, jeweils mit Sortierhinweisen."
+  },
+  "progression": {
+    "overviewTitle": "Bunker Tidy Up Fortschritt",
+    "overviewDescription": "Upgrades, Freischaltungen, Abschlussverfolgung und wie du in Bunker Tidy Up 100 Prozent erreichst, ohne Stunden mit Wiederholungsarbeit zu verschwenden."
+  },
+  "controls": {
+    "overviewTitle": "Bunker Tidy Up Steuerung",
+    "overviewDescription": "Vollständige Tastatur-, Maus- und Controller-Belegungen für Bunker Tidy Up, plus Tipps zum Neubelegen, die das Sortieren tausender Vorräte beschleunigen."
+  },
+  "tips": {
+    "overviewTitle": "Bunker Tidy Up Tipps",
+    "overviewDescription": "Praktische Bunker Tidy Up Tipps und Tricks: schnellste Reinigungsrouten, effiziente Organisation und Regalstrategien, die deinen Bunker dauerhaft ordentlich halten."
+  },
+  "reviews": {
+    "overviewTitle": "Bunker Tidy Up Bewertungen",
+    "overviewDescription": "Bunker Tidy Up Bewertungen, erste Eindrücke und ein klarer Blick darauf, ob sich der entspannte Bunker-Organisationssim für dich lohnt."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Bunker Tidy Up Wiki",
+    "about": "Das Bunker Tidy Up Wiki ist ein unabhängiger, von Fans erstellter Leitfaden-Hub zu Gegenstandssortierung, Lagerorganisation, Upgrade-Pfaden und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Bunker Tidy Up Wiki. Nicht verbunden mit Tovarishch Games, PlayWay S.A. oder Valve.",
+    "description": "Entspannter Bunker-Organisationssimulator auf Steam. Sortiere 17.000+ Vorräte und stelle Ordnung wieder her.",
+    "playGame": "Bunker Tidy Up auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Steam-Community-Hub",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "itemsGuides": "Gegenstandsleitfäden",
+    "mechanicsGuides": "Mechanik-Leitfäden",
+    "tipsGuides": "Tipps & Tricks",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

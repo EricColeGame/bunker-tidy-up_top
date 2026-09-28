@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@TovarishchGames",
     steam: "https://steamcommunity.com/app/5212940",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "ja", "zh"],
   defaultLocale: "en",
 };
