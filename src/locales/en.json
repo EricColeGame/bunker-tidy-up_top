@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the scan-sort-review loop, set your first sorting route, and clear the opening shelves without re-cleaning the same corner twice."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Storage & Shelf Zones",
+          "description": "Map the bunker into food, medicine, tool, and book zones so every supply has one obvious home before you pick it up."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Upgrade Priority",
+          "description": "Spend your first points on Hand Capacity, Shelf Scatter, and Item Pull to cut return trips and speed up every cleanup run."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Bunker Tidy Up."
+          "title": "Achievements & 100%",
+          "description": "Work through the 14 Steam achievements and the four cleanup phases that turn a full bunker clear into a steady, finishable project."
         }
       ]
     },
@@ -66,237 +66,321 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Storage Zones",
+        "Upgrade Priority",
+        "Cleaning Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Scan, sort, and review your way through the first shelves with a repeatable sorting route.",
+          "href": "/guide/bunker-tidy-up-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Item Categories",
+          "description": "Sort all 17,437 supplies by category family so every item reaches the right shelf.",
+          "href": "/items/bunker-tidy-up-inventory"
+        },
+        {
+          "badge": "Core",
+          "title": "Storage Zones",
+          "description": "Map the bunker into staging, provision, medical, tool, library, and deep storage zones.",
+          "href": "/mechanics/bunker-tidy-up-storage"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Upgrade Priority",
+          "description": "Hand Capacity, Shelf Scatter, and Item Pull explained with costs and cooldowns.",
+          "href": "/progression/bunker-tidy-up-upgrades"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cleaning Tips",
+          "description": "Two-pass workflow, category anchors, and the habits that stop clutter from coming back.",
+          "href": "/tips/bunker-tidy-up-organization-tips"
+        },
+        {
+          "badge": "New",
+          "title": "Keyboard Controls",
+          "description": "Every PC binding for moving, interacting, placing, and switching held items.",
+          "href": "/controls/bunker-tidy-up-keyboard-controls"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Achievements & 100%",
+          "description": "The four cleanup phases behind a full bunker clear and the 14 Steam achievements.",
+          "href": "/progression/bunker-tidy-up-100-percent"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Review",
+          "title": "Is It Worth It?",
+          "description": "A calm, timer-free sorting loop rated Very Positive by launch players.",
+          "href": "/reviews/bunker-tidy-up-review"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Bunker Tidy Up?",
       "paragraphs": [
-        "Bunker Tidy Up is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Bunker Tidy Up is a relaxing first-person organization simulation for PC. You spawn into a post-apocalyptic shelter packed with 17,437 scattered supplies and sort them one at a time onto the shelves, crates, and containers where the game says they belong. There are no timers, no combat, and no fail state, just a very large pile and a lot of storage to fill.",
+        "With more than 100 unique item types across food, drinks, medicine, tools, books, and survival gear, progress comes from category recognition and route planning rather than speed. Upgrades such as Hand Capacity, Shelf Scatter, and Item Pull shorten every run, while 14 Steam achievements and a 100 percent clear give completionists a long-term goal."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Tovarishch Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "PlayWay S.A."
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Release",
+          "value": "September 23, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Relaxing Organizing Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Supplies",
+          "value": "17,437"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Unique Items",
+          "value": "100+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Achievements",
+          "value": "14"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Steam Deck",
+          "value": "Verified"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Bunker Tidy Up Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every Bunker Tidy Up guide in one place: beginner routes, item categories, storage zones, controls, upgrades, achievements, updates, and reviews.",
       "modules": [
         {
           "order": 1,
-          "name": "Bunker Tidy Up Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/bunker-tidy-up-codes",
-          "displayType": "code-box",
+          "name": "Bunker Tidy Up Beginner Guide",
+          "description": "This module helps new players understand the basic sorting mechanics, bunker organization goals, and efficient ways to start arranging supplies. It covers beginner tips such as item placement logic, exploration flow, and how to avoid common mistakes.",
+          "href": "/guide/bunker-tidy-up-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Survey the room before you touch anything and note which supply groups appear most often"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Set a fixed sorting route that starts at a landmark you recognize instantly"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Group like with like in one small holding pile so you never mix categories"
+            },
+            {
+              "label": "4",
+              "detail": "Place the clearest matches first and let them anchor the rest of the shelf"
+            },
+            {
+              "label": "5",
+              "detail": "Finish one section completely before moving on to the next storage zone"
+            },
+            {
+              "label": "6",
+              "detail": "Review the finished shelf, then start your next session at the nearest unfinished area"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/bunker-tidy-up-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Bunker Tidy Up Items Guide",
+          "description": "This module explains the different item categories found in the bunker, including food, medicine, tools, books, and other supplies. Players can use it as a reference for understanding where different objects belong.",
+          "href": "/items/bunker-tidy-up-inventory",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Downstairs groceries: canned food, drinks, sauces, spices, and crackers"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Upstairs utility: survival gear, hygiene items, pet food, and household supplies"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Mixed piles: batteries, matches, medicine, and small tools routed by category"
+            },
+            {
+              "label": "C",
+              "detail": "Collectibles: ducks and other special objects saved until the main floor is clear"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/bunker-tidy-up-tier-list",
-          "displayType": "tier-grid",
+          "name": "Bunker Tidy Up Storage Guide",
+          "description": "This module focuses on shelf organization strategies and storage management techniques. It helps players create efficient layouts for handling thousands of scattered supplies.",
+          "href": "/mechanics/bunker-tidy-up-storage",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Entry",
+              "detail": "Staging zone just inside the main door for unsorted items on a first pass"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Provision",
+              "detail": "Shelves closest to the living area hold food, drinks, and consumables"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Medical",
+              "detail": "One dedicated cabinet or shelf run keeps medicine and first-aid supplies together"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Tool",
+              "detail": "Tool corner near the workshop holds repair and maintenance equipment"
+            },
+            {
+              "label": "Library",
+              "detail": "A bookcase at the quieter end stores books and reading material"
+            },
+            {
+              "label": "Deep",
+              "detail": "Back rooms and low-traffic walls take oversized items and spare supplies"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/bunker-tidy-up-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Bunker Tidy Up Achievements Guide",
+          "description": "This module lists available Steam achievements and explains how players can complete different objectives. It is useful for completionists looking for achievement requirements and progress tracking.",
+          "href": "/progression/bunker-tidy-up-100-percent",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Tracker",
+              "detail": "Follow the 14 Steam achievements to add optional structure to a game with no objectives"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Phases",
+              "detail": "A full clear moves through opening, bulk cleanup, precision, and verification stages"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Steam",
+              "detail": "Achievement and completion progress is tracked on the game's Steam page"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/bunker-tidy-up-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Bunker Tidy Up Gameplay Tips",
+          "description": "This module provides practical gameplay advice for relaxing but efficient bunker management. It covers organization habits, item recognition, and ways to improve sorting speed.",
+          "href": "/tips/bunker-tidy-up-tips-and-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Category",
+              "detail": "Filter by broad group first, then confirm what the item does before choosing a shelf"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Two-Pass",
+              "detail": "Scan and group on the first pass, then resolve exact placement on the second"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Anchors",
+              "detail": "Use every confirmed placement as a reference for the next uncertain item"
+            },
+            {
+              "label": "Sweep",
+              "detail": "Recheck each group and scan for stray items before you stop"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/bunker-tidy-up-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Bunker Tidy Up Controls Guide",
+          "description": "This module explains the game's controls, interaction systems, and available accessibility options. It helps players quickly understand movement, item handling, and gameplay settings.",
+          "href": "/controls/bunker-tidy-up-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Move",
+              "detail": "Walk between rooms, shelves, and staging piles across the bunker floors"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Look",
+              "detail": "Sweep shelves and hidden corners before lifting anything"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Interact",
+              "detail": "Pick up loose supplies and use interactive objects when the prompt appears"
+            },
+            {
+              "label": "Place",
+              "detail": "Set an item onto a shelf, floor, or container without blocking walkways"
+            },
+            {
+              "label": "Switch",
+              "detail": "Cycle through carried supplies when you hold more than one item"
+            },
+            {
+              "label": "Menu",
+              "detail": "Open settings to review bindings, sensitivity, and accessibility options"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Bunker Tidy Up Updates",
+          "description": "This module collects official announcements, release information, and future update news. Players can check recent changes and developer messages from official channels.",
+          "href": "/guide/bunker-tidy-up-early-access",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "Bunker Tidy Up shipped as a full 1.0 release on September 23, 2026"
+            },
+            {
+              "label": "Patches",
+              "detail": "The developer pushed a tuning update within the first week of launch"
+            },
+            {
+              "label": "Deck",
+              "detail": "The game holds Steam Deck Verified status with save-anytime support"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Bunker Tidy Up Reviews",
+          "description": "This module summarizes player feedback, Steam review trends, and community impressions. It helps visitors understand the game's relaxing organization gameplay style before playing.",
+          "href": "/reviews/bunker-tidy-up-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Score",
+              "detail": "Player reviews sit at Very Positive with 88 percent of 294 launch reviews"
+            },
+            {
+              "label": "Verdict",
+              "detail": "Reviewers describe a calm, timer-free sorting loop that rewards patience"
+            },
+            {
+              "label": "Price",
+              "detail": "Listed at $3.99 during the introductory discount ending October 7, 2026"
             }
           ]
         }
@@ -308,23 +392,27 @@
       "items": [
         {
           "question": "What is Bunker Tidy Up?",
-          "answer": "Bunker Tidy Up is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Bunker Tidy Up is a relaxing first-person organization simulation for PC. You sort 17,437 scattered supplies onto shelves and into containers inside a post-apocalyptic bunker, with no timers, combat, or fail states."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many items are in Bunker Tidy Up?",
+          "answer": "The bunker starts with 17,437 individual supplies spread across more than 100 unique item types, grouped into food, drinks, medicine, tools, books, hygiene, pet care, and survival gear."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is Bunker Tidy Up hard?",
+          "answer": "No. Bunker Tidy Up is built to be relaxing: there are no timers or score penalties, and the challenge comes from category recognition and route planning rather than reflexes."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What should I upgrade first in Bunker Tidy Up?",
+          "answer": "Start with Hand Capacity to carry more per trip, then add Shelf Scatter and Item Pull to speed up sorting. Movement speed and cosmetics can wait until the core upgrades are online."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Bunker Tidy Up have codes or multiplayer?",
+          "answer": "No. Bunker Tidy Up is a single-player PC game with no redeem codes and no multiplayer mode, and save-anytime support means you can stop whenever you like."
+        },
+        {
+          "question": "How many achievements does Bunker Tidy Up have?",
+          "answer": "Bunker Tidy Up includes 14 Steam achievements, which add optional structure for players chasing a full 100 percent clear."
         }
       ]
     },
