@@ -1,0 +1,125 @@
+export const metadata = {
+  title: "Bunker Tidy Up Upgrades Guide: Skill Progression, Costs, and Endgame Tips",
+  description: "A full breakdown of bunker tidy up upgrades — capacity tiers, cooldowns, costs, and how to install extended upgrade mods without risking your save.",
+  category: "progression",
+  date: "2026-09-29",
+}
+
+The final hours of Bunker Tidy Up are rarely about technique. Once your routes are memorized and your sorting rhythm is automatic, progress bottlenecks on two numbers: how much you can carry and how often your abilities come off cooldown. That is why bunker tidy up upgrades become the real currency sink in the late game — and why so many players stall just short of finishing. Knowing how bunker tidy up upgrades scale, what they cost, and where a community mod can extend them turns a grind-heavy finale into something you can actually plan.
+
+This guide covers the three upgrade lines players talk about most, the extended tiers added by the "More Upgrades" mod, and the save-file rules you should follow before you install or remove anything.
+
+## Why Bunker Tidy Up Upgrades Matter in the Endgame
+
+In a sorting and organizing game, upgrades convert time into capacity. Every tier you buy removes one small friction point: a return trip you no longer have to make, a cooldown you no longer have to wait out, a scattered pile you no longer have to chase. Individually those savings look tiny. Stacked across a long endgame run, they are the difference between a loop that feels like work and a loop that feels like flow.
+
+That is also why upgrades sit at the center of bunker tidy up progression. The base game's tiers are deliberately finite, so you eventually reach the standard maximum on each line and the currency you keep earning has nowhere useful to go. Player experience reports consistently describe this as the moment the endgame flattens out — the tasks are still there, but the sense of growth is not.
+
+| Upgrade line | Friction it removes | What a higher tier buys you |
+|---|---|---|
+| Hand Capacity | Constant trips back and forth | More items carried per run, fewer return trips |
+| Shelf Scatter | Slow manual shelf management | A stronger utility ability available on a much shorter cooldown |
+| Item Pull | Chasing items scattered around the room | More items gathered per use, ready far more often |
+
+The practical takeaway is simple: bunker tidy up upgrades are not cosmetic rewards. They are the main lever that controls how fast your endgame loop runs, which makes every coin you spend on them a decision about time rather than power.
+
+## The Three Core Upgrade Lines Explained
+
+Most upgrade discussion in the community circles around three lines. Each one targets a different kind of friction, so they are not really competing with each other — they are competing for your currency.
+
+### Hand Capacity
+
+Hand Capacity is the headline stat. It sets how many items you can hold at once, which directly controls how many trips a single cleaning pass requires. If you find yourself walking the same route three or four times per room, capacity is your bottleneck. Extra levels here tend to pay for themselves faster than anything else, because they shorten every single run rather than just one action.
+
+### Shelf Scatter
+
+Shelf Scatter is a utility ability governed by a cooldown. It is the kind of tool you want available when a shelf has fallen into disarray and manual sorting would eat thirty seconds of your run. Because its value depends on how often you can trigger it, cooldown reductions are the meaningful upgrade — a shorter timer means you can lean on the ability as part of your normal route instead of saving it for emergencies.
+
+### Item Pull
+
+Item Pull is the cleanup button: it gathers a batch of loose items so you can keep moving instead of hunting them down one at a time. Like Shelf Scatter, its usefulness scales with frequency. The extended tier documented by the community raises both how many items it collects and how quickly it comes back, which makes it the cheapest way to smooth out a messy run.
+
+| Line | What improves | Best moment to invest |
+|---|---|---|
+| Hand Capacity | Items carried per trip | As soon as repeated walking becomes obvious |
+| Shelf Scatter | Ability cooldown | When you start skipping messy shelves |
+| Item Pull | Items per use and cooldown | When loose items slow your route |
+
+## Extended Upgrade Tiers: What the More Upgrades Mod Adds
+
+Because the base game's tiers are capped, the natural endgame question is: what happens when everything is maxed? That is the gap a community mod called "More Upgrades" tries to fill. Published on Nexus Mods by the creator Reken411, it adds extra skill upgrades intended to keep the late game interesting rather than finished, and it has been updated into version 1.0.2.
+
+The mod does not invent new mechanics. It extends the three existing lines with additional purchasable levels and defines the final values those levels reach. According to the mod's own documentation, the additions break down like this:
+
+| Upgrade line | Extra levels added | Final value reached | Cost per level |
+|---|---|---|---|
+| Hand Capacity | 3 | 60, then 70, then 80 items | 50 each |
+| Shelf Scatter | 1 | 60-second cooldown | 100 |
+| Item Pull | 1 | 20-second cooldown, pulls 40 items | 60 |
+
+Buying every extended tier therefore costs 310 currency in total: 150 for the three Hand Capacity levels, 100 for Shelf Scatter, and 60 for Item Pull. That is a meaningful sink for a player who has already maxed the standard trees, and it is the main reason the mod exists.
+
+Two caveats are worth stating plainly. First, this is a small, recently updated mod, so community reports are still limited — download counts are low and long-term compatibility testing is thin. Second, the author openly notes the plugin was AI-assisted, which does not make it unsafe but does mean you should treat unusual behavior as possible rather than surprising. If you are new to modding this game, start with the [official BepInEx documentation](https://docs.bepinex.dev/) so you understand what a plugin loader is actually doing before you drop files into your game folder.
+
+## How to Install and Uninstall Bunker Tidy Up Upgrade Mods Safely
+
+The installation itself is short. The risk is not in the install — it is in the removal, and that is where most players get burned. Read the uninstall section before you install anything.
+
+| Requirement | Detail |
+|---|---|
+| Game build | Steam version v1.0.4f2 (Unity Mono x64) |
+| Mod loader | BepInEx 5.4.23.3, matching your operating system |
+| Runtime patching | HarmonyX 2.9.0, provided through BepInEx |
+| Plugin file | BunkerTidyUpMoreUpgrades.dll |
+| Target folder | BepInEx\plugins\ |
+
+| Step | Action |
+|---|---|
+| 1 | Back up your save folder before touching any game files |
+| 2 | Download the BepInEx 5.4.23.3 archive for your OS and extract it into the main game folder |
+| 3 | Confirm winhttp.dll and the BepInEx folder sit alongside the game executable |
+| 4 | Launch the game once, then close it, so the loader generates its folders |
+| 5 | Extract the mod's .dll into BepInEx\plugins\ |
+| 6 | Launch again and check that the extra upgrade tiers appear |
+
+Removing the mod is technically as simple as deleting the .dll file — BepInEx can stay installed without issue. The problem is what your save does next:
+
+| Scenario | What happens | How to avoid it |
+|---|---|---|
+| You bought extended levels, then removed the mod | Purchased levels above the standard maximum get clamped back down | Restore a save backup or avoid saving the game before you remove the mod |
+| You remove the mod mid-run | Your save no longer matches the upgrade data it was written with | Keep a clean backup from before your first extended purchase |
+| You swap mod versions | Mostly harmless, but reload a save to be safe | Re-test one purchase before committing to a long session |
+
+Community reports agree on one rule above all others: keep a save backup from before your first extended-tier purchase. It costs you thirty seconds and it is the only thing standing between a bad removal and a lost endgame file. If you want to check the game's current build and store listing first, you can [find Bunker Tidy Up on the Steam store](https://store.steampowered.com/search/?term=Bunker+Tidy+Up) to confirm your version.
+
+## Upgrade Spending Priorities for a Smoother Endgame
+
+Once you understand the numbers, the buying order mostly sorts itself out. Efficiency is about shortening every run, then shortening the cooldowns you use most, then filling in the expensive utility options last.
+
+| Priority | Purchase | Cost | Why it ranks here |
+|---|---|---|---|
+| 1 | Hand Capacity extra levels | 50 each | Shortens every route in the game, not one action |
+| 2 | Item Pull extended tier | 60 | Cheapest cooldown upgrade and constant passive value |
+| 3 | Shelf Scatter extended tier | 100 | Strong, but the priciest and the most situational |
+
+A few habits make those purchases go further:
+
+- **Buy in bulk when you can.** Three Hand Capacity levels at 50 each is only 150 total — cheaper than the single Shelf Scatter tier.
+- **Test before you commit.** Buy one tier, run a full room, and check whether the improvement is actually noticeable to you.
+- **Do not buy out of sequence.** If walking is still your bottleneck, a shorter cooldown will not fix it.
+- **Track your currency.** Knowing the full extended set costs 310 currency prevents you from stalling halfway through.
+- **Re-read the mod page after updates.** Extended tiers depend on a specific game build, so a patch can change what works.
+
+## FAQ
+
+**What do bunker tidy up upgrades actually change?**
+They reduce friction rather than add raw power. Hand Capacity raises how many items you carry per trip, while Shelf Scatter and Item Pull reduce cooldowns and increase how many items a single ability use handles. Together they shorten the endgame loop.
+
+**How much does it cost to unlock every extended tier?**
+The documented extended set totals 310 currency: 150 across three Hand Capacity levels at 50 each, 100 for the Shelf Scatter tier, and 60 for the Item Pull tier.
+
+**Is it safe to remove an upgrade mod after buying extra levels?**
+Not without preparation. Purchased levels above the standard maximum are clamped back down if you load the game without the mod. Restore a save backup or avoid saving before you uninstall.
+
+**Which bunker tidy up upgrades should I buy first?**
+Hand Capacity. It affects every trip you take, so the return is immediate and easy to feel. Item Pull is the cheapest cooldown upgrade and makes a good second purchase, leaving the pricier Shelf Scatter tier for last.

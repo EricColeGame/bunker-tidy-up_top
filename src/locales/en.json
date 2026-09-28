@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "progression": "Progression",
+    "controls": "Controls",
+    "tips": "Tips",
+    "reviews": "Reviews"
   },
   "home": {
     "meta": {
@@ -423,7 +430,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Bunker Tidy Up Guide",
+    "overviewDescription": "Walkthroughs, beginner routes, and full-game coverage for Bunker Tidy Up. Start here to learn the core cleaning loop, reach the ending, and follow the game from early access to launch."
+  },
+  "mechanics": {
+    "overviewTitle": "Bunker Tidy Up Mechanics",
+    "overviewDescription": "How Bunker Tidy Up actually works: cleaning, organizing, shelf placement, and storage systems explained so you can tidy a shelter without redoing the same corner twice."
+  },
+  "items": {
+    "overviewTitle": "Bunker Tidy Up Items",
+    "overviewDescription": "Every item category in Bunker Tidy Up, from food storage and supplies to books and the full 17,437-item inventory, with sorting advice for each."
+  },
+  "progression": {
+    "overviewTitle": "Bunker Tidy Up Progression",
+    "overviewDescription": "Upgrades, unlocks, completion tracking, and how to reach 100 percent in Bunker Tidy Up without wasting hours on repeat work."
+  },
+  "controls": {
+    "overviewTitle": "Bunker Tidy Up Controls",
+    "overviewDescription": "Full keyboard, mouse, and controller bindings for Bunker Tidy Up, plus remapping tips that make sorting thousands of supplies faster."
+  },
+  "tips": {
+    "overviewTitle": "Bunker Tidy Up Tips",
+    "overviewDescription": "Practical Bunker Tidy Up tips and tricks: fastest cleaning routes, efficient organization, and shelf strategies that keep your bunker tidy for good."
+  },
+  "reviews": {
+    "overviewTitle": "Bunker Tidy Up Reviews",
+    "overviewDescription": "Bunker Tidy Up reviews, first impressions, and a clear look at whether the relaxing bunker organization sim is worth your time."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -454,9 +488,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Steam Community Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "itemsGuides": "Item Guides",
+    "mechanicsGuides": "Mechanics Guides",
+    "tipsGuides": "Tips & Tricks",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

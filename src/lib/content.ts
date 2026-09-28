@@ -225,11 +225,11 @@ export async function getContent(contentType: string, slugSegments: string[], la
  * 导航分组结构（用于动态 Wiki Navigation）
  */
 export interface NavGroup {
-  /** 分组标题，来自目录名转人类可读格式，如 "bosses" → "Bosses" */
+  /** 分组标题，来自目录名转人类可读格式，如 "guide" → "Getting Started" */
   title: string;
   /** 该分组下的文章数量 */
   count: number;
-  /** 分组 slug（即目录名，如 "bosses"） */
+  /** 分组 slug（即目录名，如 "guide"） */
   slug: string;
   /** 文章链接列表 */
   links: Array<{ label: string; href: string; badge?: string }>;
@@ -237,24 +237,24 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  mechanics: "Mechanics",
+  items: "Items",
+  progression: "Progression",
+  controls: "Controls",
+  tips: "Tips & Tricks",
+  reviews: "Reviews",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
   guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  mechanics: "ゲームメカニクス",
+  items: "アイテム",
+  progression: "進行",
+  controls: "操作方法",
+  tips: "攻略のコツ",
+  reviews: "レビュー",
 };
 
 // locale → 分组标题映射
@@ -269,7 +269,7 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "items", "progression", "controls", "tips", "reviews",
 ];
 
 /**
